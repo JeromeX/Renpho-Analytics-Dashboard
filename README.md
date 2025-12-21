@@ -1,5 +1,10 @@
 # 📈 Renpho Analytics Dashboard
 
+**Frontend**
+### Sprachen: HTML5 (Struktur) und CSS3 (Design).
+### Styling-Framework: Bootstrap 5 (Verantwortlich für das moderne, responsive Layout, die Karten und die Buttons).
+### Icons: FontAwesome 6 (Die kleinen Symbole in der Navigation und im Benutzermenü).
+
 Ein leistungsstarkes, Flask-basiertes Dashboard zur detaillierten Analyse von Körperzusammensetzungs-Daten der Renpho-Waagen. Visualisiere deinen Fortschritt über das Gewicht hinaus – inklusive Körperfett, Muskelmasse, BMI und mehr.
 
 <img width="1920" height="1080" alt="2025-12-22 00_32_21-Renpho Importer Tool und 1 weitere Seite - Maltex – Microsoft​ Edge" src="https://github.com/user-attachments/assets/fb262268-c9ea-4b30-a229-3f2bcd695b6d" />
@@ -9,8 +14,7 @@ Ein leistungsstarkes, Flask-basiertes Dashboard zur detaillierten Analyse von K�
 <img width="1920" height="1080" alt="2025-12-22 00_32_34-Renpho Importer Tool und 1 weitere Seite - Maltex – Microsoft​ Edge" src="https://github.com/user-attachments/assets/b5dd32b6-76ac-40f7-b7a6-1876291e65ae" />
 <img width="1920" height="1080" alt="2025-12-22 00_32_45-Renpho Importer Tool und 1 weitere Seite - Maltex – Microsoft​ Edge" src="https://github.com/user-attachments/assets/e3894462-102f-46fb-82a3-2a9e630852d9" />
 
-✨ Features
-
+### ✨ Features :
 - **Interaktives Dashboard:** Visualisierung von Gewicht, Fettanteil, Muskelmasse, Wasser, BMI, Viszeralfett, Knochenmasse und BMR mittels Chart.js.
 - **Bunte Navigation:** Intuitive Benutzeroberfläche mit thematisch farblich getrennten Sektionen (Dashboard, Details, Analyse, Gesundheit, Bericht).
 - **Ziel- & Planer:** Berechne dein Zieldatum basierend auf deiner Kalorienzufuhr und verfolge deinen Fortschritt grafisch.
@@ -25,7 +29,7 @@ Ein leistungsstarkes, Flask-basiertes Dashboard zur detaillierten Analyse von K�
 - Python 3.8+
 - MySQL Server
 
-🛠 Technologien
+### 🛠 Technologien
 Backend: Python / Flask
 Datenbank: MySQL (SQLAlchemy)
 Frontend: HTML5, Bootstrap 5, FontAwesome 6
@@ -33,7 +37,7 @@ Charts: Chart.js
 PDF-Export: jsPDF / jsPDF-AutoTable
 Automatisierung: APScheduler
 
-🔒 Datenschutz
+### 🔒 Datenschutz
 Alle biometrischen Daten werden vor der Speicherung in der Datenbank mittels AES-Verschlüsselung (Fernet) gesichert. Nur der eingeloggte Benutzer kann seine eigenen Daten entschlüsseln.
 
 Erstellt mit ❤️ für eine gesündere Zukunft.
