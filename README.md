@@ -25,3 +25,15 @@ Ein leistungsstarkes, Flask-basiertes Dashboard zur detaillierten Analyse von K�
 - Python 3.8+
 - MySQL Server
 
+🛠 Technologien
+Backend: Python / Flask
+Datenbank: MySQL (SQLAlchemy)
+Frontend: HTML5, Bootstrap 5, FontAwesome 6
+Charts: Chart.js
+PDF-Export: jsPDF / jsPDF-AutoTable
+Automatisierung: APScheduler
+
+🔒 Datenschutz
+Alle biometrischen Daten werden vor der Speicherung in der Datenbank mittels AES-Verschlüsselung (Fernet) gesichert. Nur der eingeloggte Benutzer kann seine eigenen Daten entschlüsseln.
+
+Erstellt mit ❤️ für eine gesündere Zukunft.
