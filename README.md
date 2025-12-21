@@ -1,11 +1,21 @@
 # 📈 Renpho Analytics Dashboard
 
-**Frontend**
-### Sprachen: HTML5 (Struktur) und CSS3 (Design).
-### Styling-Framework: Bootstrap 5
-### Icons: FontAwesome 6
-
 Ein leistungsstarkes, Flask-basiertes Dashboard zur detaillierten Analyse von Körperzusammensetzungs-Daten der Renpho-Waagen. Visualisiere deinen Fortschritt über das Gewicht hinaus – inklusive Körperfett, Muskelmasse, BMI und mehr.
+
+### 🛠 Technologien
+Backend: Python / Flask
+Datenbank: MySQL (SQLAlchemy)
+Frontend: HTML5, Bootstrap 5, FontAwesome 6
+Charts: Chart.js
+PDF-Export: jsPDF / jsPDF-AutoTable
+Automatisierung: APScheduler
+
+### Voraussetzungen
+- Python 3.8+
+- MySQL Server
+
+### 🔒 Datenschutz
+Alle biometrischen Daten werden vor der Speicherung in der Datenbank mittels AES-Verschlüsselung (Fernet) gesichert. Nur der eingeloggte Benutzer kann seine eigenen Daten entschlüsseln.
 
 <img width="1920" height="1080" alt="2025-12-22 00_32_21-Renpho Importer Tool und 1 weitere Seite - Maltex – Microsoft​ Edge" src="https://github.com/user-attachments/assets/fb262268-c9ea-4b30-a229-3f2bcd695b6d" />
 <img width="1920" height="1080" alt="2025-12-22 00_32_12-Renpho Importer Tool und 1 weitere Seite - Maltex – Microsoft​ Edge" src="https://github.com/user-attachments/assets/18b16fd0-0d8e-4d08-9e91-c5dfc34d50bc" />
@@ -23,21 +33,4 @@ Ein leistungsstarkes, Flask-basiertes Dashboard zur detaillierten Analyse von K�
 - **Sicherheit:** Verschlüsselte Speicherung sensibler Gesundheitsdaten in einer MySQL-Datenbank.
 - **Multi-User & Admin:** Benutzerverwaltung mit Rollensystem (Admin/User).
 
-## 🚀 Installation
-
-### Voraussetzungen
-- Python 3.8+
-- MySQL Server
-
-### 🛠 Technologien
-Backend: Python / Flask
-Datenbank: MySQL (SQLAlchemy)
-Frontend: HTML5, Bootstrap 5, FontAwesome 6
-Charts: Chart.js
-PDF-Export: jsPDF / jsPDF-AutoTable
-Automatisierung: APScheduler
-
-### 🔒 Datenschutz
-Alle biometrischen Daten werden vor der Speicherung in der Datenbank mittels AES-Verschlüsselung (Fernet) gesichert. Nur der eingeloggte Benutzer kann seine eigenen Daten entschlüsseln.
-
-Erstellt mit ❤️ für eine gesündere Zukunft.
+**Erstellt mit ❤️ für eine gesündere Zukunft.** 
