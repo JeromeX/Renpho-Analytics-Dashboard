@@ -2,8 +2,8 @@
 
 **Frontend**
 ### Sprachen: HTML5 (Struktur) und CSS3 (Design).
-### Styling-Framework: Bootstrap 5 (Verantwortlich für das moderne, responsive Layout, die Karten und die Buttons).
-### Icons: FontAwesome 6 (Die kleinen Symbole in der Navigation und im Benutzermenü).
+### Styling-Framework: Bootstrap 5
+### Icons: FontAwesome 6
 
 Ein leistungsstarkes, Flask-basiertes Dashboard zur detaillierten Analyse von Körperzusammensetzungs-Daten der Renpho-Waagen. Visualisiere deinen Fortschritt über das Gewicht hinaus – inklusive Körperfett, Muskelmasse, BMI und mehr.
 
