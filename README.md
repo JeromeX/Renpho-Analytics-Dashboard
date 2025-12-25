@@ -17,12 +17,18 @@ Automatisierung: APScheduler
 ### 🔒 Datenschutz
 Alle biometrischen Daten werden vor der Speicherung in der Datenbank mittels AES-Verschlüsselung (Fernet) gesichert. Nur der eingeloggte Benutzer kann seine eigenen Daten entschlüsseln.
 
-<img width="1920" height="1080" alt="2025-12-22 00_32_21-Renpho Importer Tool und 1 weitere Seite - Maltex – Microsoft​ Edge" src="https://github.com/user-attachments/assets/fb262268-c9ea-4b30-a229-3f2bcd695b6d" />
-<img width="1920" height="1080" alt="2025-12-22 00_32_12-Renpho Importer Tool und 1 weitere Seite - Maltex – Microsoft​ Edge" src="https://github.com/user-attachments/assets/18b16fd0-0d8e-4d08-9e91-c5dfc34d50bc" />
-<img width="1920" height="1080" alt="2025-12-22 00_32_26-Renpho Importer Tool und 1 weitere Seite - Maltex – Microsoft​ Edge" src="https://github.com/user-attachments/assets/180bf1ab-34d7-4152-9089-c9d2373ddd70" />
-<img width="1920" height="1080" alt="2025-12-22 00_32_31-Renpho Importer Tool und 1 weitere Seite - Maltex – Microsoft​ Edge" src="https://github.com/user-attachments/assets/3c4f2296-13f0-43af-aa3e-96c064a3810f" />
-<img width="1920" height="1080" alt="2025-12-22 00_32_34-Renpho Importer Tool und 1 weitere Seite - Maltex – Microsoft​ Edge" src="https://github.com/user-attachments/assets/b5dd32b6-76ac-40f7-b7a6-1876291e65ae" />
-<img width="1920" height="1080" alt="2025-12-22 00_32_45-Renpho Importer Tool und 1 weitere Seite - Maltex – Microsoft​ Edge" src="https://github.com/user-attachments/assets/e3894462-102f-46fb-82a3-2a9e630852d9" />
+<img width="1920" height="1080" alt="2025-12-25 14_17_31-Login _ RenphoAnalytics und 3 weitere Seiten - Maltex – Microsoft​ Edge" src="https://github.com/user-attachments/assets/d0d5bd94-9842-4389-856f-3918b22b76ec" />
+<img width="1920" height="1080" alt="2025-12-25 14_37_48-RenphoAnalytics und 2 weitere Seiten - Maltex – Microsoft​ Edge" src="https://github.com/user-attachments/assets/fe5373b1-b26a-46bb-bd99-6e07734748e8" />
+<img width="1920" height="1080" alt="2025-12-25 14_37_55-RenphoAnalytics und 2 weitere Seiten - Maltex – Microsoft​ Edge" src="https://github.com/user-attachments/assets/a94538dd-de82-4f4f-a88b-3a9fc1ef6bd8" />
+<img width="1920" height="1080" alt="2025-12-25 14_38_16-RenphoAnalytics und 2 weitere Seiten - Maltex – Microsoft​ Edge" src="https://github.com/user-attachments/assets/d5bf6799-e7c9-41b8-90d6-f4e178e5e355" />
+<img width="1920" height="1080" alt="2025-12-25 14_47_52-Clipboard" src="https://github.com/user-attachments/assets/7860e098-2a06-42ce-a03f-712145945a9e" />
+<img width="1920" height="1080" alt="2025-12-25 14_38_59-RenphoAnalytics und 2 weitere Seiten - Maltex – Microsoft​ Edge" src="https://github.com/user-attachments/assets/0a8ecb27-4582-486f-8e05-4a1a4257eb69" />
+<img width="1920" height="1080" alt="2025-12-25 14_39_14-RenphoAnalytics und 2 weitere Seiten - Maltex – Microsoft​ Edge" src="https://github.com/user-attachments/assets/4a13e17a-c97d-4a2e-bb83-ff949b536fdc" />
+<img width="1920" height="1080" alt="2025-12-25 14_39_45-RenphoAnalytics und 2 weitere Seiten - Maltex – Microsoft​ Edge" src="https://github.com/user-attachments/assets/26e71e13-45cf-46cd-8ff3-7236d1bb47a9" />
+<img width="1920" height="1080" alt="2025-12-25 14_40_02-RenphoAnalytics und 2 weitere Seiten - Maltex – Microsoft​ Edge" src="https://github.com/user-attachments/assets/c42af456-4a64-468d-8091-61cab6890f69" />
+
+
+
 
 ### ✨ Features :
 - **Interaktives Dashboard:** Visualisierung von Gewicht, Fettanteil, Muskelmasse, Wasser, BMI, Viszeralfett, Knochenmasse und BMR mittels Chart.js.
